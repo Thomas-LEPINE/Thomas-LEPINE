@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thomas-LEPINE
+- 👀 I’m interested in new technologies, sports, photography and cooking 🍪
+- 🌱 I have completed my engineering training
+- 📫 You can reach me on LinkedIn : https://www.linkedin.com/in/thomas-l%C3%A9pine/
