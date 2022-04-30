@@ -7,7 +7,7 @@ Automation and computer engineer
 I'm a software development using various programming languages, environments and network communications. A specific focus is related to cybersecurity.
 
 * 🌍  I'm based in Nantes
-* ✉️  You can contact me on LinkedIn : [https://www.linkedin.com/in/thomas-l%C3%A9pine/](mailto:https://www.linkedin.com/in/thomas-l%C3%A9pine/)
+* ✉️  You can contact me on LinkedIn : <a href="https://www.linkedin.com/in/thomas-l%C3%A9pine/" target="blank" rel="noreferrer"><span>https://www.linkedin.com/in/thomas-l%C3%A9pine/ </span><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a> <!-- [https://www.linkedin.com/in/thomas-l%C3%A9pine/](mailto:https://www.linkedin.com/in/thomas-l%C3%A9pine/) -->
 * 🧠  I'm learning Java / Angular / Python / NodeJS
 * ⚡  I’m interested in new technologies, sports, photography and cooking 🍪
 
