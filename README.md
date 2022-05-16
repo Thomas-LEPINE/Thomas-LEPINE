@@ -47,7 +47,7 @@ I'm a software developer full-stack using various programming languages, environ
 
 <a target="blank" href="http://www.github.com/Thomas-LEPINE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-LEPINE&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Top languages
+### Top languages (for my projects)
 
 | Languages most used : |
 | :--------------------- |
